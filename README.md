@@ -5,3 +5,7 @@ NN course at Technoshere, MailRu Group
 2) MNIST
 
 3) Face landmarks using simple convolutions / ResNet
+
+
+
+5) Weights initialization (He, Xavier) + Dropout, Dropconnect + Batch normalization, Layer normalization
